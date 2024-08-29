@@ -27,7 +27,7 @@ export default function MovieList() {
             method: 'get',
             url: 'https://api.themoviedb.org/3/discover/movie?include_adult=false&include_video=false&language=en-US&page=1&sort_by=popularity.desc',
             params: {
-                api_key: '62bb2bf396570c5582cce2f286541d4b',
+                api_key: `${process.env.NEXT_PUBLIC_API_KEY}`,
                 language: 'pt-BR'
             }
         }).then(response => {
