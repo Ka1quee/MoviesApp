@@ -1,40 +1,35 @@
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🎬🍿 Movies App
 
-## Getting Started
+Movies App é um projeto que consome dados de uma API de filmes, trazendo diversas informações dos últimos lançamentos.
 
-First, run the development server:
+## 🚀 **Funcionalidades**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- Visualização das seguintes informações: Postêr, título, descrição e avaliação.
+## 📚 **Dependências utilizadas**
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![Axios](https://img.shields.io/badge/Axios-1.7.5-blue)
+![React-Icons](https://img.shields.io/badge/React_Icons-5.3.0-blue)
+![React Loading](https://img.shields.io/badge/React_Loading-2.0.3-blue)
+![SASS](https://img.shields.io/badge/React_Loading-1.77.8-blue)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- **Axios**: 🌐 Biblioteca para fazer requisições HTTP do navegador e do Node.js.
+- **React Icons**: 🎨 Biblioteca para incluir ícones populares como componentes de React.
+- **React Loading**: 🎨 A biblioteca react-loading fornece componentes leves e personalizáveis para exibir spinners (indicadores de carregamento) em aplicações React. Ela oferece diferentes estilos de loaders, como círculos e barras, que podem ser facilmente integrados e ajustados em termos de cor e tamanho.
+  
+- **SASS**: 🎨 Sass (Syntactically Awesome Style Sheets) é uma linguagem de extensão para CSS que permite o uso de recursos avançados como variáveis, aninhamento de regras, mixins, herança, entre outros. Esses recursos tornam o código CSS mais organizado, reutilizável e fácil de manter.
 
-## Learn More
+# Visualização
 
-To learn more about Next.js, take a look at the following resources:
+### Página principal
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![Web 1](https://i.imgur.com/qcV38Vm.png)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Mobile
+![Mobile 1](https://i.imgur.com/v2u71v9.png)
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+# Autor
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-=======
-# MoviesApp
->>>>>>> 715f0e49c129d2a4aa727630f1108aa392b5d5e8
+### Kaique Oliveira de Freitas Mota
+www.linkedin.com/in/kaique--oliveira
