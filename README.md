@@ -4,7 +4,7 @@ Movies App é um projeto que consome dados de uma API de filmes, trazendo divers
 
 ## 🚀 **Funcionalidades**
 
-- Visualização das seguintes informações: Postêr, título, descrição e avaliação.
+- Visualização das seguintes informações: Poster, título, descrição e avaliação.
 ## 📚 **Dependências utilizadas**
 
 ![Axios](https://img.shields.io/badge/Axios-1.7.5-blue)
